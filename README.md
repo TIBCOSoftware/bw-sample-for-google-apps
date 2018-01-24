@@ -1,8 +1,8 @@
-=========================================================================================================
-										Google Apps                                                       
+
+# TIBCO BusinessWorks Sample for Google Apps                                                       
 
 # README #
-=========================================================================================================
+
 * Project Version 1.0.0
 
 A comprehensive set of connectors with ~140+ API's which will include following Apps: 
