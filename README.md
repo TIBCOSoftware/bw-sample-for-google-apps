@@ -8,9 +8,10 @@
 
 A comprehensive set of connectors with ~140+ API's which will include following Apps: 
 Google Maps, Google Mail, Google Plus, Google Places, Google Drive, Google Calendar,Google Sheets, Google OAuth & Google Translate
-Note: Authentication values such as tokens and usernames/passwords are dummy values and will need to be updated for the sample to deploy properly.
 
 ###Note:
+Authentication values such as tokens and usernames/passwords are dummy values and will need to be updated for the sample to deploy properly.
+
 The Suite is split into two projects as build time was exceeding 5 mins and push to cloud was failing due to large upload size.
 The code for each project is available in sourcecode folder.
 
